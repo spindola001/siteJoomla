@@ -1,0 +1,8 @@
+preset: preset4
+header:
+  background: '#a61f21'
+main:
+  background: '#d6d6d6'
+footer:
+  background: '#ffffff'
+  text-color: '#666666'
